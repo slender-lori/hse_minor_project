@@ -1,1 +1,1 @@
-# hse_minor_project
+# Acropora digitifera
