@@ -2,7 +2,7 @@
 
 Блокноты:
 
-Zdnabert, zhunt и их пересечния: https://colab.research.google.com/drive/1sKUKTGA9D5UD2KFti_TI3qKOsl0fI6cU?usp=sharing
+Zdnabert, zhunt и их пересечения: https://colab.research.google.com/drive/1sKUKTGA9D5UD2KFti_TI3qKOsl0fI6cU?usp=sharing
 
 Квадруплексы, zhunt, эпигенетика: https://colab.research.google.com/drive/1Gz44EjWyXNP-HcEklPv2xGEYNITfyvYw?usp=sharing
 
