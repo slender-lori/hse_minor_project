@@ -1,9 +1,12 @@
 # Acropora digitifera
 
 Блокноты:
+
 Zdnabert, zhunt и их пересечния: https://colab.research.google.com/drive/1sKUKTGA9D5UD2KFti_TI3qKOsl0fI6cU?usp=sharing
+
 Квадруплексы, zhunt, эпигенетика: https://colab.research.google.com/drive/1Gz44EjWyXNP-HcEklPv2xGEYNITfyvYw?usp=sharing
 
+[Гены связанные с эпигенетикой](https://raw.githubusercontent.com/slender-lori/hse_minor_project/refs/heads/main/project_files/gene_family_results.csv)
 
 **Описание организма:**
 Размер генома коралла **Acropora digitifera** составляет **447 478 678** и содержит  **32 106 генов**.  
